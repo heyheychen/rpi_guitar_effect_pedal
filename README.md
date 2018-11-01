@@ -5,7 +5,7 @@
 the main code is pipedal.c, lcd1602.c and lcd1602.h were the library I used.
 
 Reference:
-circuit and code:
+1. Circuit and code:
 https://www.electrosmash.com/pedal-pi
-i2c lcd library:
+2. I2C lcd library:
 https://github.com/bitbank2/LCD1602
