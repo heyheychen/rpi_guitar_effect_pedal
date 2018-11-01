@@ -2,7 +2,8 @@
 #### demo_video: 
 ###### https://youtu.be/yoJyjJsH0yU?fbclid=IwAR18aQ9xNyzZNwjmuGxuq8vIJymAT-HkT6flED-2TIwFlh3R08WUfcHt3jU
 
-the main code is pipedal.c, lcd1602.c and lcd1602.h were the library I used.
+Main code is pipedal.c 
+lcd1602.c and lcd1602.h are the library files
 
 Reference:
 1. Circuit and code:
