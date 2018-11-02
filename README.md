@@ -24,7 +24,7 @@ Software flow:
 ![Alt text](https://github.com/heyheychen/rpi_guitar_effect_pedal/blob/master/pic/software%20flow.png?raw=true)
     
      
-Reference:
+## Reference:
 1. Circuit and code: 
 https://www.electrosmash.com/pedal-pi 
 2. I2C lcd library: 
