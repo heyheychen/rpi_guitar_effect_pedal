@@ -4,7 +4,7 @@
 
 #### Hardware
 In order to solving noise issue due to raspberry_pi 5V unstable power, I added a 5V to 3.3V LDO to the circuit.   
-On the other hand, I add two potentiometers for controling volume and effect values.    
+On the other hand, I add two potentiometers for adjusting volume and effect values.    
 Modified schematic is as followed.    
 ![Alt text](https://github.com/heyheychen/rpi_guitar_effect_pedal/blob/master/pic/rpi_pedal_schematic.png?raw=true)
 
