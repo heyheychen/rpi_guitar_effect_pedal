@@ -1,6 +1,6 @@
 ## rpi_guitar_effect_pedal
 
-#### demo_video: https://youtu.be/yoJyjJsH0yU?fbclid=IwAR18aQ9xNyzZNwjmuGxuq8vIJymAT-HkT6flED-2TIwFlh3R08WUfcHt3jU
+#### demo_video: https://ppt.cc/f6aJ2x
 
 #### Hardware
 In order to solving noise issue due to raspberry_pi 5V unstable power, I added a 5V to 3.3V LDO to the circuit.   
