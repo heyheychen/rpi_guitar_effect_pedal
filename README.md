@@ -1,8 +1,17 @@
 # rpi_guitar_effect_pedal
 
 ## Instruction
-This project use Raspberry Pi to create a guitar effect pedal with a LCD monitor.        
-The effects are including bypass, overdrive, delay, echo, reverb, octaver, tremolo.    
+This project use Raspberry Pi to create a guitar effect pedal with a LCD monitor.   
+    
+The effects are including:
+- Bypass
+- Overdrive
+- Delay
+- Echo
+- Reverb
+- Octaver
+- Tremolo   
+
 demo_video: https://ppt.cc/f6aJ2x
 
 ## Hardware
