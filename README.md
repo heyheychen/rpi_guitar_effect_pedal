@@ -19,7 +19,7 @@ note: BCM2835 library need to be installed first
 
 ## Software
 Main code is pipedal.c  
-lcd1602.c and lcd1602.h are the library files   
+lcd1602.c and lcd1602.h are library files   
 Software flow:    
 ![Alt text](https://github.com/heyheychen/rpi_guitar_effect_pedal/blob/master/pic/software%20flow.png?raw=true)
     
